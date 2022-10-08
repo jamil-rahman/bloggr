@@ -5,7 +5,7 @@ import Banner from '../components/Banner'
 
 const Home: NextPage = () => {
   return (
-    <div className='p-5 max-w-7xl mx-auto'>
+    <div className='max-w-7xl mx-auto'>
       <Head>
         <title>Bloggr</title>
         <link rel="icon" href="/icon.png" />

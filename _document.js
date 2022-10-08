@@ -5,11 +5,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-        <title>Bloggr</title>
-          <meta
-            name="description"
-            content="Bloggr-let your mind speak"
-          />
+          <title>Bloggr</title>
+          <meta name="description" content="Bloggr-let your mind speak" />
           <link rel="shortcut icon" href="/bloggr.png" />
         </Head>
         <body>
